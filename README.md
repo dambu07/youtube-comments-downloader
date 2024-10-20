@@ -3,10 +3,10 @@
 
 **Technologies**:
 > - [Streamlit](https://docs.streamlit.io/get-started)
-> - [Youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader)
+> - [Youtube-comment-downloader](https://github.com/dambu07/youtube-comments-downloader)
 
 **Link app**:
-> [https://download-comments-from-youtube-video-url.streamlit.app/](https://download-comments-from-youtube-video-url.streamlit.app/)
+> [https://download-comments-from-youtube-video-url.streamlit.app/](https://yt-comments.streamlit.app/)
 
 **How to use it**:
 > 1. Open the app (wait it until it wakes up if it sleep)
